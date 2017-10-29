@@ -54,3 +54,21 @@
     * `elementti.setAttribute('style', 'cssOminaisuus: arvo;')`
   * Jos tarkistus ei mene läpi, lomakkeen lähettäminen estetään
     * `preventDefault()`
+  * Apuja
+    * https://www.w3schools.com/jsref/jsref_regexp_exec.asp
+    * https://www.w3schools.com/jsref/jsref_obj_regexp.asp
+    
+### Tehtävä C
+#### Lomakkeen vastaanottaminen PHP:llä
+1. Tee kaksi uutta tiedostoa: lomakeGET.php ja lomakePOST.php
+2. Tulosta PHP:llä lomakkeesta tullut data. 
+  * Lähetä data teht_a.html:stä GET-metodilla ja teht_b.html:stä POST-metodilla.
+  * lomakeGET.php vastaanottaa teht_a.html:n datan
+  * lomakePOST.php vastaanottaa teht_b.html:n datan
+  * Apuja
+    * https://www.w3schools.com/php/php_forms.asp
+3. Validoi lomakkeesta tullut data
+  * Apuja
+    * https://www.w3schools.com/php/php_form_validation.asp
+    * https://www.w3schools.com/php/php_form_required.asp
+    * https://www.w3schools.com/php/php_form_url_email.asp
