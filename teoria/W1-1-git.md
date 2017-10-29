@@ -8,6 +8,32 @@
 * OS X
     * press cmd-space and type terminal
 
+### All tasks in one repo
+
+1. Open terminal or Git Bash
+2. Go to desired folder e.g. `Documents/tasks
+    ```
+    cd ~/Documents/tasks
+3. Create a new repo in GitHub and copy/paste the commands under '…or create a new repository on the command line'. It looks something like this:
+    ```
+    echo "# nameOfTheRepo" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git remote add origin https://github.com/username/nameOfTheRepo.git
+    git push -u origin master
+6. Create individual folders for each task and save the filse there
+    * Make links to the main README.md to each task.
+      * [MD = markdownd language](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+7. When you want to push new version to GitHub (for example when the task is eady) go to the main tasks folder and run
+    ```
+    git add .
+    git commit -m 'message'
+    git push
+8. You can view the repo at `https://github.com/username/nameOfTheRepo`
+
+### Tasks in individual repos
+
 #### When starting a new task from scratch:
 1. Open terminal or Git Bash
 2. Go to desired folder e.g. `Documents/tasks
