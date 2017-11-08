@@ -24,7 +24,9 @@
   * Käytetään JSON-lähteenä kuvat.json-tiedostoa
   * Avaa teht-b.html sekä js/main-b.js
   * Tarkemmat ohjeet js/main-b.js kommenteissa
-  * Apuja: https://developer.mozilla.org/en-US/docs/Web/API/Body/json
+  * Apuja: 
+    * http://wesbos.com/template-strings-html/
+    * https://developer.mozilla.org/en-US/docs/Web/API/Body/json
 
 ### Tehtävä C 
   * Tehdään AJAX-sovellus, kuten tehtävässä B
