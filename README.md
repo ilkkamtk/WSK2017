@@ -32,3 +32,4 @@ Projektina toteutetaan pareittain median jakamiseen ja hallinnoimiseen tarkoitet
 1. [CSS kertausta](https://github.com/ilkkamtk/imageList)
 2. [Lomakkeen validointi](tehtavat/lomakkeenValidointi.md)
 3. [AJAX](tehtavat/ajax.md)
+4. [Ulkoasumuunnokset](tehtavat/ulkoasuMuunnokset.md)

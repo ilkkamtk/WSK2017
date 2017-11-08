@@ -1,11 +1,12 @@
 # AJAX
 
 ## Asynchronous JavaScript And XML
-  * http://www.w3schools.com/xml/ajax_intro.asp (käytetään tämän sijasta fetchiä)
+  * http://www.w3schools.com/xml/ajax_intro.asp (käytetään XMLHttpRequestin sijasta fetchiä)
   * http://www.json.org/
   * https://github.com/mattpe/wbma/blob/master/docs/w3-promises.md
   * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
   * https://github.com/github/fetch  -fetch polyfill
+  * https://davidwalsh.name/fetch
 
 ## Aloitus
 1. Lataa tämä repo zippinä https://github.com/ilkkamtk/WebPer3 ja pura se
