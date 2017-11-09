@@ -33,3 +33,4 @@ Projektina toteutetaan pareittain median jakamiseen ja hallinnoimiseen tarkoitet
 2. [Lomakkeen validointi](tehtavat/lomakkeenValidointi.md)
 3. [AJAX](tehtavat/ajax.md)
 4. [Ulkoasumuunnokset](tehtavat/ulkoasuMuunnokset.md)
+5. [CSS Animaatiot](tehtavat/anim.md)
