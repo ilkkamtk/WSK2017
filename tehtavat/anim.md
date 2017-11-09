@@ -1,7 +1,7 @@
 # CSS animaatiot
 
 ## Aloitus
-* Lataa tämä repo kuten aiemmissa tehtävissä
+* Lataa [tämä](https://github.com/ilkkamtk/WebPerAnim) repo kuten aiemmissa tehtävissä
 
 ## Tehtävä A 
   * Avaa teht-a.html sekä css/main-a.css
