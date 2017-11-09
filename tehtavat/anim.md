@@ -31,5 +31,3 @@
     * https://www.kirupa.com/html5/setting_css_styles_using_javascript.htm
     * http://xahlee.info/js/js_fadeout_css_transition.html
 
-## Palautus
-  * Tallena tämä kansio kotihakemistoosi ja palauta Tuubiin linkki
