@@ -86,3 +86,5 @@ canvas {
   border: 1px #000 solid;
 }
 ```
+## Harjoitus
+1. Lataa tämä repo zippinä https://github.com/ilkkamtk/WebPer6 ja pura se
