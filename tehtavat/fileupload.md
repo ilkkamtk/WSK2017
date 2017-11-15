@@ -1,5 +1,8 @@
 # Tiedoston tallennus palvelimelle
 
+## Aloitus
+1. Lataa tämä repo zippinä https://github.com/ilkkamtk/WebPer5 ja pura se
+
 ## 1. Perinteinen versio
 
 * Muokkaa task_a.html ja upload.php tiedostoja:
