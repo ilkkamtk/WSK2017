@@ -14,6 +14,8 @@ HTML:
 ```
 JS:
 ```ecmascript 6
+const inputElement = document.querySelector('input');
+
 inputElement.addEventListener('change', (evt) => {
   const allFiles = inputElement.files;
   console.log(allFiles);
