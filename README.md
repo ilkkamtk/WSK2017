@@ -27,6 +27,8 @@ Projektina toteutetaan pareittain median jakamiseen ja hallinnoimiseen tarkoitet
 * [GIT basic usage / submitting tasks](./teoria/W1-1-git.md)
 * [JS style guide](./teoria/W1-2-JS-styleguide.md)
 * [ES6 perusteita](teoria/W1-3-ES6.md)
+* [Template esimerkki JS](https://github.com/ilkkamtk/WebPerEsimJS)
+* [Template esimerkki PHP](https://github.com/ilkkamtk/WebPerEsimPHP)
 
 ## Tehtävät
 1. [CSS kertausta](https://github.com/ilkkamtk/imageList)
