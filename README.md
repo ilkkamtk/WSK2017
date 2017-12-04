@@ -29,6 +29,7 @@ Projektina toteutetaan pareittain median jakamiseen ja hallinnoimiseen tarkoitet
 * [ES6 perusteita](teoria/W1-3-ES6.md)
 * [Template esimerkki JS](https://github.com/ilkkamtk/WebPerEsimJS)
 * [Template esimerkki PHP](https://github.com/ilkkamtk/WebPerEsimPHP)
+* [JavaScript Cheatsheet](/teoria/ES-cheat.md)
 * [PDO Cheatsheet](/teoria/PDO-cheat.md)
 
 ## Tehtävät
